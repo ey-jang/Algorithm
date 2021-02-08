@@ -21,6 +21,8 @@
   <ItemGroup>
     <ClCompile Include="BP_모의고사.cpp" />
     <ClCompile Include="BP_소수찾기.cpp" />
+    <ClCompile Include="BP_카펫.cpp" />
+    <ClCompile Include="dfs_타겟넘버.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

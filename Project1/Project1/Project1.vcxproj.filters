@@ -24,5 +24,8 @@
     <ClCompile Include="스택, 큐\기능개발.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="스택, 큐\다리를지나는트럭.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

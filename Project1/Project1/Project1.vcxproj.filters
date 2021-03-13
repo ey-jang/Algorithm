@@ -21,5 +21,8 @@
     <ClCompile Include="스택, 큐\프린터.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="스택, 큐\기능개발.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="스택, 큐\기능개발.cpp" />
-    <ClCompile Include="스택, 큐\다리를지나는트럭.cpp" />
-    <ClCompile Include="스택, 큐\주식가격.cpp" />
-    <ClCompile Include="스택, 큐\프린터.cpp" />
+    <ClCompile Include="5014.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -20,8 +20,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="BFS, DFS\14503_로봇청소기.cpp" />
-    <ClCompile Include="BFS, DFS\2573_빙산.cpp" />
-    <ClCompile Include="BFS, DFS\9205_맥주 마시면서 걸어가기.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

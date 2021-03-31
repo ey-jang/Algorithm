@@ -16,16 +16,16 @@ int main() {
 
 	for (int i = 0; i < t; i++) {
 		cin >> n;
-		//Áı
+		//ì§‘
 		cin >> u >> v;
 		location.push_back({ u, v });
 		
-		//ÆíÀÇÁ¡
+		//í¸ì˜ì 
 		for (int i = 0; i < n; i++) {
 			cin >> u >> v;
 			location.push_back({ u, v });
 		}
-		// ÆæÅ¸Æ÷Æ®
+		// íœíƒ€í¬íŠ¸
 		cin >> u >> v;
 		location.push_back({ u, v });
 

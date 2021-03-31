@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BFS, DFS\14503.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="BFS, DFS\9205.cpp">
+    <ClCompile Include="BFS, DFS\2573_빙산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

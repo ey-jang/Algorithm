@@ -18,5 +18,11 @@
     <ClCompile Include="BFS, DFS\2573_빙산.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BFS, DFS\9205_맥주 마시면서 걸어가기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS, DFS\14503_로봇청소기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

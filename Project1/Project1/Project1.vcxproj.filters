@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="11726_2xn 타일링.cpp">
+    <ClCompile Include="BFS, DFS\1697_숨바꼭질.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
